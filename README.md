@@ -1,0 +1,7 @@
+ 1. Given an array of N integers.Find the second largest element in an array without sorting an array  input: [1,7,3,6,5] output : 6 Input:[6,5,1,8,7,8] Output: 7
+
+2. write a program to print all the leaders in the array .An element is leader if it is greater than all the element to its right side .And the right most side is always a leader input1: Arr[] = {7,8,3,4,6,2} output: 8 6 2  inout 2 : Arr[] = {5,5,3,2,1} output : 5 3 2 1
+
+3.check if frequency of all characters in the given the string are equal when you remove exactly one character from the string. example1: input: cdcddca output:true explanation: if "a" is removed, "c and d " will have the same frency of 3 example 2: input : aaabbbcc ouput:false  explanation: Frequency of the characters in the given string won't be qual if any 1 char is removed
+
+4.if you were only permitted to complete at most one transaction(i.e,buy one and sell one share the stock ), design an algorithm to find the maximum profit note that you cannot sell a stock before you buy one input : [7,1,5,3,6,4] output: 5 explanation: buy on day (price =1 and sell on day (price =6), profit 6 -1 = 5)
